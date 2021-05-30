@@ -1,0 +1,38 @@
+.wait{
+    background: #16a085;
+    max-width: 300px;
+    width: 100%;
+    height: 90px;
+    margin: auto;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    text-align: center;
+    line-height: 90px;
+    color: white;
+    font-size: 45px;
+    border-radius: 2px;
+    display: none;
+    box-shadow: 0 0 5px #000;
+    z-index: 1200;
+}
+.inv-img {
+    position: relative;
+}
+span.del {
+    position: absolute;
+    right: 0px;
+    background: #F02828;
+    width: 20px;
+    height: 20px;
+    text-align: center;
+    color: #fff;
+    border-radius: 50%;
+}
+@font-face {
+    font-family: kalpurush;
+    src: url(../../fonts/Kalpurush.ttf);
+}
+body{font-family: kalpurush; font-size:16px;}

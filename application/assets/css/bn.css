@@ -1,0 +1,35 @@
+@font-face {
+    font-family: kalpurush;
+    src: url(../fonts/Kalpurush.ttf);
+}
+
+body {
+  font-family:'Open Sans', Arial, kalpurush, sans-serif;font-size:16px;
+}
+h1, h2, h3, h4, h5, h6{font-family:'Open Sans', Arial, kalpurush, sans-serif;}
+.ictd-menu ul li a{
+    display: block;
+     padding: 21px 10px;
+    font-size: 16px;
+    font-weight: 600;
+    color: #333;
+  
+}
+.ictd-menu ul li .sub-menus li a{font-size:16px;}
+
+.bn-font h4{
+    font-size: 18px;
+    line-height: 27px;
+    font-weight: 400;
+}
+.sensitive-info h3{font-family:'Open Sans', Arial, kalpurush, sans-serif;}
+.section-title h2{
+    font-size: 26px;
+}
+.links-box ul li a {
+  font-size: 16px;
+}
+.biography-area {
+    padding-bottom: 10px;
+    font-size: 14px;
+}

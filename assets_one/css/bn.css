@@ -1,0 +1,44 @@
+@font-face {
+	font-family: 'NikoshBAN';
+	src: url('../fonts/NikoshBAN.eot');
+	src: url('../fonts/NikoshBAN.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/NikoshBAN.woff2') format('woff2'),
+		url('../fonts/NikoshBAN.woff') format('woff'),
+		url('../fonts/NikoshBAN.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+body {
+    font-size: 14px;
+    font-family:'Roboto', NikoshBAN, sans-serif;
+}
+h1, h2, h3, h4, h5, h6{font-family:'Roboto', NikoshBAN, sans-serif;}
+
+.ictd-menu ul li a{
+    display: block;
+    padding: 13px 10px;
+    font-size: 15px;
+    font-weight: 600;
+    color: #333;
+  
+}
+
+.ictd-menu ul li .sub-menus li a{font-size:14px;}
+
+.bn-font h4{
+    font-size: 18px;
+    line-height: 27px;
+    font-weight: 400;
+}
+.sensitive-info h3{font-family:'Roboto', NikoshBAN, sans-serif;}
+.section-title h2{
+    font-size: 26px;
+}
+.links-box ul li a {
+  font-size: 16px;
+}
+.biography-area {
+    padding-bottom: 10px;
+    font-size: 14px;
+}
