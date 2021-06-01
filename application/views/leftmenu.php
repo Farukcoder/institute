@@ -55,7 +55,7 @@
   </style> -->
 
 </head>
-<body onload="onload_hide_fun();" style="background-image: url(../assets/img/a.jpg); overflow:hidden">
+<body onload="onload_hide_fun();">
     <div id="wrapper">
         <!-- start header -->
         <header style="padding-left:120px;">
