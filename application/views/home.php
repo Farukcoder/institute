@@ -262,47 +262,46 @@
 
             <!-- Main Content Start Here -->
             <div class="col-md-9" style="margin-top: 20px;">
-                <div class="col-md-3">
-                    <center style="padding:10px"><img src="assets/img/mujib_logo.png" class="img-responsive"
-                            width="100px" height="100px"></center>
-                </div>
-                <div class="col-md-8" style="float:right; position: relative;
-bottom: 67px;">
+            <div class="p-md-4">
+            <div class="row">
+                <div class="col-md-12">
                     <div class="row">
-                        <div class="col-md-2">
-                            <h3
-                                style="text-align: center;text-align: center;border: 4px solid green;background: red;padding: 10px;color: white;font-size: 39px;font-weight: bold;border-radius: 10px;">
-                            </h3>
-                            <h4 style="text-align: center;font-weight: bold;color: green;">
-                                দিন
-                            </h4>
+                        <div class="col-md-4">
+                            <center><img src="http://www.spisg.gov.bd/web_images/mujib_logo.png" class="img-responsive" style="height: 160px"></center>
                         </div>
-                        <div class="col-md-2">
-                            <h3
-                                style="text-align: center;text-align: center;border: 4px solid green;background: red;padding: 10px;color: white;font-size: 39px;font-weight: bold;border-radius: 10px;">
-                            </h3>
-                            <h4 style="text-align: center;font-weight: bold;color: green;">
-                                ঘণ্টা
-                            </h4>
+                        <div class="col-md-8" style="margin-top: 50px;">
+                            <div class="row">
+                                <div class="col-md-3">
+                                    <h3 style="text-align: center;text-align: center;border: 4px solid green;background: red;padding: 10px;color: white;font-size: 39px;font-weight: bold;border-radius: 10px;"></h3>
+                                    <h4 style="text-align: center;font-weight: bold;color: green;">
+                                        দিন
+                                    </h4>
+                                </div>
+                                <div class="col-md-3">
+                                    <h3 style="text-align: center;text-align: center;border: 4px solid green;background: red;padding: 10px;color: white;font-size: 39px;font-weight: bold;border-radius: 10px;"></h3>
+                                    <h4 style="text-align: center;font-weight: bold;color: green;">
+                                        ঘণ্টা
+                                    </h4>
+                                </div>
+                                <div class="col-md-3">
+                                    <h3 style="text-align: center;text-align: center;border: 4px solid green;background: red;padding: 10px;color: white;font-size: 39px;font-weight: bold;border-radius: 10px;"></h3>
+                                    <h4 style="text-align: center;font-weight: bold;color: green;">
+                                        মিনিট
+                                    </h4>
+                                </div>
+                                <div class="col-md-3">
+                                    <h3 style="text-align: center;text-align: center;border: 4px solid green;background: red;padding: 10px;color: white;font-size: 39px;font-weight: bold;border-radius: 10px;"></h3>
+                                    <h4 style="text-align: center;font-weight: bold;color: green;">
+                                        সেকেন্ড
+                                    </h4>
+                                </div>
+                            </div>
                         </div>
-                        <div class="col-md-2">
-                            <h3
-                                style="text-align: center;text-align: center;border: 4px solid green;background: red;padding: 10px;color: white;font-size: 39px;font-weight: bold;border-radius: 10px;">
-                            </h3>
-                            <h4 style="text-align: center;font-weight: bold;color: green;">
-                                মিনিট
-                            </h4>
-                        </div>
-                        <div class="col-md-2">
-                            <h3
-                                style="text-align: center;text-align: center;border: 4px solid green;background: red;padding: 10px;color: white;font-size: 39px;font-weight: bold;border-radius: 10px;">
-                            </h3>
-                            <h4 style="text-align: center;font-weight: bold;color: green;">
-                                সেকেন্ড
-                            </h4>
-                        </div>
-                    </div>
+                    </div>   
+
                 </div>
+            </div>
+        </div>
                 <!-- Notice Section  -->
                 <div class="notice p-md-4" style="border:1px solid #EAEDED">
                     <div class="notice_board">
