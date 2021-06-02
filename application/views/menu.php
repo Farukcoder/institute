@@ -25,7 +25,7 @@
                                         </a>
                                     </li>
                                     <li class="dropdown-submenu">
-                                        <a class="dropdown-item" tabindex="-1" href="javascript:void(0)">
+                                        <a class="dropdown-item" tabindex="-1" href="About/history">
                                             History Of SPI
                                         </a>
                                     </li>
