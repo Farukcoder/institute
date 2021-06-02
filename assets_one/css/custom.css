@@ -8,7 +8,7 @@
 body {
     font-family: 'Kalpurush', sans-serif;
     font-weight: 400;
-    background: url('../../../web_images/pattern.png');
+    background: url('assets/img/pattern.png');
 }
 
 h1,

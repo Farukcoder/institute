@@ -1,37 +1,42 @@
-<style>
-  .menubar ul li:hover .submenu{
-   display:block;
-   position:absolute;
-   margin-top:15px;
-   margin-left:-15px;
-  }
-</style>
+<div class="col-md-9" style="margin-top: 20px;">
+    <h4
+        style=" color: #17469e;text-align: left;font-family: Arimo;font-weight: 400;font-style: normal;text-transform: uppercase;">
+        Mission</h4>
+    <hr style="background: #17469e; ">
+    <div class="row">
+        <div class="col-md-6" style="margin-top: 10px;">
+            <p class="text-justify">
+                a)To Provide quality education, teaching &amp; learning.<br>
+                b)To ensure human resource development to meet the challenge of the current and future technology.<br>
+                c) To strive for industries/employers satisfaction &amp; earn their confidence.<br>
+                d) To ensure sustainable development in TVET sector.<br>
+            </p>
+        </div>
 
-<!DOCTYPE html>
-<html lang="en">
+        <div class="col-md-6" style="margin-top: 10px;">
+            <img src="http://www.spisg.gov.bd/web_images/news/news-2.jpg" alt="SPI Mission" class="img-fluid">
+        </div>
 
-<body onload="onload_hide_fun();">
-    <div id="wrapper">
-        <!-- start header -->
-        <header style="padding-left:120px;">
-          
-              <div class="body" style="width:67%;height:1370px;background:#E5E8E8;float:left;">
-              	<h style="padding:20px;font-size:20px;color:gray">Mission & Vission</h>
-                  <h1 style="padding-left:20px;font-size:20px;color:gray;border">MISSION </h1>
-                        <div class="content"style="padding-top:-20px;border-top:1px solid gray;">
-                          <div class="lcontent" style="float:left;padding:20px;font-size:17px;width:420px;">a)To Provide quality education, teaching & learning.<br>b)To ensure human resource development to meet the challenge of the current and future technology.<br>c) To strive for industries/employers satisfaction & earn their confidence.<br>d) To ensure sustainable development in TVET sector</div>
-                          <div class="rcontent" style="float:right"><img src="assets/img/m.jpg" class="img-responsive" style="height:250px;width:400px;padding:20px"</div>
-            
-  </div>
-</div>
-<h1 style="padding-left:20px;font-size:20px;color:gray;border">VISSION </h1>
- <div class="content"style="padding-top:-20px;border-top:1px solid gray;">
-                          <div class="lcontent" style="float:left;padding:20px;font-size:17px;width:420px;text-align:justify;">To be the Unique modern TVET Institution in Bangladesh and to make significant contribution to the nation, employment for all graduates and enhance employers trust.</div>
-                          <div class="rcontent" style="float:right"><img src="assets/img/v.jpg" class="img-responsive" style="height:270px;width:400px;padding:20px"</div>
-            
-  </div>
-</div>
-</div>
+    </div>
 
-                </header>
-   <!-- end header
+    <h4
+        style=" color: #17469e;text-align: left;font-family: Arimo;font-weight: 400;font-style: normal;text-transform: uppercase;margin-top: 20px;">
+        Vission</h4>
+    <hr style="background: #17469e; ">
+    <div class="row">
+        <div class="col-md-6" style="margin-top: 10px;">
+            <p class="text-justify">
+                To be the Unique modern TVET Institution in Bangladesh and to make significant contribution to the
+                nation, employment for all graduates and enhance employers trust.
+
+            </p>
+        </div>
+
+        <div class="col-md-6" style="margin-top: 10px;">
+            <img src="http://www.spisg.gov.bd/web_images/news/vission.jpg" alt="SPI Vission" class="img-fluid">
+        </div>
+
+    </div>
+    <hr style="background: #17469e; ">
+
+</div>
